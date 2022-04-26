@@ -1,0 +1,6 @@
+package com.example.mywebviewdownload
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
